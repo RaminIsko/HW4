@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Рамин&Эмир\\Desktop\\Семинар4 - ДЗ\\HW4\\HW4.csproj",
+      "projectUniqueName": "C:\\Users\\Рамин&Эмир\\Desktop\\GeekBrains\\Семинар4 - ДЗ\\HW4\\HW4.csproj",
       "projectName": "HW4",
-      "projectPath": "C:\\Users\\Рамин&Эмир\\Desktop\\Семинар4 - ДЗ\\HW4\\HW4.csproj",
+      "projectPath": "C:\\Users\\Рамин&Эмир\\Desktop\\GeekBrains\\Семинар4 - ДЗ\\HW4\\HW4.csproj",
       "packagesPath": "C:\\Users\\Рамин&Эмир\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Рамин&Эмир\\Desktop\\Семинар4 - ДЗ\\HW4\\obj\\",
+      "outputPath": "C:\\Users\\Рамин&Эмир\\Desktop\\GeekBrains\\Семинар4 - ДЗ\\HW4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Рамин&Эмир\\AppData\\Roaming\\NuGet\\NuGet.Config"
